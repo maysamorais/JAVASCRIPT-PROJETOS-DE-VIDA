@@ -64,6 +64,11 @@ body {
 .ativo{
     background-color:var(--botao-ativo);
     border-bottom: 4px solid var(--verde);
+
+    .contador{
+    font-size: 20px;
+    text-align: center;
+}
  }
 
 @media screen and (min-width: 768px){
